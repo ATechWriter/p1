@@ -1,4 +1,4 @@
-# Lisa Gay's DWA15 Course Portfolio
+# Lisa Gay's Portfolio for DWA15
 
 This page collects my projects for the course Dynamic Web Applications. As I complete projects, I will add links to each project's Github repository and live site.
 
