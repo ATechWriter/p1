@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title="Lisa Gay P1 - DWA15 Portfolio">
+    <title>Lisa Gay's Portfolio for DWA15</title>
     <meta charset="utf-8"/>
     <meta name="description" content="Lisa Gay's projects for the course Dynamic Web Applications. Fall 2016.">
     <link rel="stylesheet" href="styles.css">
