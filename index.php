@@ -16,8 +16,8 @@
     <p>Github: <em><a href="https://github.com/ATechWriter/p2">P2 Repository</a></em></p>
 
     <h2>Project 3</h2>
-    <p>Live: <em>link to come</em></p>
-    <p>Github: <em>link to come</em></p>
+    <p>Live: <em><a href="http://project3.josquinia.org">Developer's BFF</a></em></p>
+    <p>Github: <em><a href="https://github.com/ATechWriter/project3">Project 3 Repository</a></em></p>
 
     <h2>Project 4</h2>
     <p>Live: <em>link to come</em></p>
