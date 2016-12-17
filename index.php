@@ -20,8 +20,8 @@
     <p>Github: <em><a href="https://github.com/ATechWriter/project3">Project 3 Repository</a></em></p>
 
     <h2>Project 4</h2>
-    <p>Live: <em>link to come</em></p>
-    <p>Github: <em>link to come</em></p>
+    <p>Live: <em><a href="http://p4-practice.josquinia.org">Quilisma Consort Music Tracker</a></em></p>
+    <p>Github: <em><a href="https://github.com/ATechWriter/p4-practice">Project 4 Repository</a></em></p>
 
 </body>
 
